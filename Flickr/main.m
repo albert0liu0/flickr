@@ -1,0 +1,16 @@
+//
+//  main.m
+//  Flickr
+//
+//  Created by iOSIntern on 2017/7/13.
+//  Copyright © 2017年 iOSIntern. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "AppDelegate.h"
+
+int main(int argc, char * argv[]) {
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+    }
+}
